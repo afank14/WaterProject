@@ -17,27 +17,31 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WaterProject
 build_property.RootNamespace = WaterProject
-build_property.ProjectDir = /Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/
+build_property.ProjectDir = /Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/alexfankhauser/RiderProjects/WaterProject/WaterProject
+build_property.MSBuildProjectDirectory = /Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/Views/Home/Index.cshtml]
+[/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/Views/_ViewImports.cshtml]
+[/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/Views/Shared/ProjectSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1Byb2plY3RTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/Views/_ViewStart.cshtml]
+[/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/Views/Shared/_Layout.cshtml]
+[/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sxzw0bly9u

@@ -2960,11 +2960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/WaterProject.csproj",
+      "projectUniqueName": "/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/WaterProject.csproj",
       "projectName": "WaterProject",
-      "projectPath": "/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/WaterProject.csproj",
+      "projectPath": "/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/WaterProject.csproj",
       "packagesPath": "/Users/alexfankhauser/.nuget/packages/",
-      "outputPath": "/Users/alexfankhauser/RiderProjects/WaterProject/WaterProject/obj/",
+      "outputPath": "/Users/alexfankhauser/Documents/GitHub/WaterProject/WaterProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexfankhauser/.nuget/NuGet/NuGet.Config"
@@ -3031,7 +3031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/alexfankhauser/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

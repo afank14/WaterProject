@@ -8,13 +8,9 @@
 
 @foreach (Project p in Model.Projects)
 {
-    <h3>@p.ProjectName</h3>
+    <partial name="ProjectSummary" model="p"></partial>
     
-    <ul>Project Type: @p.ProjectType</ul>
-    <ul>Regional Program: @p.ProgramName</ul>
-    <ul>Impact: @p.ProjectImpact served</ul>
-    <ul>Installation Date: @p.ProjectInstallation</ul>
-    <ul>Project Phase: @p.ProjectPhase</ul>
 }
 
-<div page-model="@Model.PaginationInfo" page-action="Index"></div>
+<div page-model="@Model.PaginationInfo" page-action="Index" page-class-enabled="true" page-class="btn" 
+     page-class-normal="btn-outline-dark" page-class-selected="btn-primary" class="btn-group pull-right m-1"></div>
